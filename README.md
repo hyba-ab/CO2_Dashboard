@@ -1,14 +1,14 @@
-Title :  Global CO2 Emissions and Climate Change 
+#Title :  Global CO2 Emissions and Climate Change 
 
-Purpose:
+##Purpose:
 This dashboard provides a comprehensive overview of global CO2 emissions and their correlation with climate change. It utilizes Python's "Panel" and "hvPlot" libraries to create interactive visualizations that allow for easy exploration and analysis of the data.
 
-Dependencies:
+##Dependencies:
 Python 3.x
 Panel
 hvPlot
 
-Dashboard Components:
+##Dashboard Components:
 
 CO2 Emissions by Continent: A line chart showing CO2 emissions trends for different continents.
 CO2 per Capita: A table showing CO2 emissions per capita for each listed country or continent across the years.
